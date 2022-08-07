@@ -5,11 +5,13 @@ public class DoWhileOdd {
 
         System.out.println("Odd Numbers are : ");
         int a=50;
-        do{
+        do
+        {
             if(a%2==1)
             {
                 System.out.print(a+"\t");
             }a++;
+
         }while(a<=100);
     }
 }
