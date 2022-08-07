@@ -1,11 +1,11 @@
 //Write a program to check given number is prime or not
 
-package Nestedifelse;
+package nested_if_else;
 
 public class PrimeNestedIf {
     public static void main(String[] args) {
 
-     int num=10,a;
+     int num=98,a;
      int temp=0;
      for(a=1;a<=num;a++)
      {

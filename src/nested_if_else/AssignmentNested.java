@@ -3,7 +3,7 @@
 //marks>45> second
 //marks>33 third
 
-package Nestedifelse;
+package nested_if_else;
 
 public class AssignmentNested {
     public static void main(String[] args) {

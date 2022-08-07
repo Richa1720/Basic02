@@ -1,4 +1,4 @@
-package Nestedifelse;
+package nested_if_else;
 
 public class OddOrEven {
 
