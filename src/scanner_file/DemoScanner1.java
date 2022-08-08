@@ -18,6 +18,12 @@ public class DemoScanner1 {
         int age=obj.nextInt();   //It reads integer input
         System.out.println("Age is : "+age);
 
+        System.out.print("Enter the price : ");
+        double price=obj.nextDouble();  //it reads double input
+        System.out.println("Price is : "+price);
+
+
+
 
 
     }
